@@ -1,8 +1,19 @@
+body{padding: 0;
+	margin: 0;
+	background-color: tomato;
+}
 .main-content{
-	width: 960px;
+	width: 90%;
 	margin: 0 auto;
+
 }
 h1{
 	width: 100%;
 	background-color: gold;
+}
+
+h2{
+	background-color: lightblue;
+	padding: 0 2%;
+	margin:0;
 }
